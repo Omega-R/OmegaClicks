@@ -1,4 +1,4 @@
-package com.omega_r.click.library
+package com.omega_r.click
 
 import org.junit.Test
 
