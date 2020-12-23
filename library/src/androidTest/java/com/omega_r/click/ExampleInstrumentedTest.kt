@@ -1,4 +1,4 @@
-package com.omega_r.click.library
+package com.omega_r.click
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
