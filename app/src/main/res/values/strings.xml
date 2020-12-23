@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OmegaClick</string>
+    <string name="button_lick_me">Click Me!</string>
+    <string name="weel_done">Well done!</string>
 </resources>
